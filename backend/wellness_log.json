@@ -1,0 +1,22 @@
+[
+    {
+        "timestamp": "2025-11-24T20:37:11.812319",
+        "mood": "very low",
+        "energy": "low",
+        "objectives": [
+            "Brainstorm 3 video ideas",
+            "Write down 5 bullet points for a video script"
+        ],
+        "summary": "We discussed breaking down video creation into smaller steps like brainstorming and outlining, and trying short timed sessions to make tasks less overwhelming."
+    },
+    {
+        "timestamp": "2025-11-24T20:37:32.447386",
+        "mood": "very low",
+        "energy": "low",
+        "objectives": [
+            "Brainstorm 3 video ideas",
+            "Write down 5 bullet points for a video script"
+        ],
+        "summary": "To help with low energy, we focused on breaking down goals into small, manageable steps and suggested using a timer for short, focused work periods without aiming for perfection."
+    }
+]
